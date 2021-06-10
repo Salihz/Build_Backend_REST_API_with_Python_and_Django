@@ -1,4 +1,4 @@
-Django==2.2.13
+Django==2.2.24
 djangorestframework==3.11.1
 flake8==3.8.3
 mccabe==0.6.1
